@@ -1,0 +1,9 @@
+a=1
+b=3
+Sum=3
+while(a<10):
+    b=b*(-3)
+    Sum=Sum+b
+    Sum=Sum-1/b
+    a=a+1
+print("",Sum)
