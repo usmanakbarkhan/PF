@@ -1,0 +1,14 @@
+x=int(5)
+y=int(6)
+z=int(4)
+w=float(3.5)
+a=(x+z)%y
+print(a)
+b=(x+y)/w
+print(b)
+c=(x+y)*y
+print(c)
+d=(y%z)%x
+print(d)
+e=((x*y)*w)*z
+print(e)
